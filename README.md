@@ -1,9 +1,7 @@
 # FWALR
-Feature weighted active learning algorithms for regression problems
+Feature weighted Pool-Based Sequential Active Learning for Regression algorithms
 
-This program produces main results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019.
-
-It compares 11 different active learning for regression approaches:
+main_singleTask_github.m produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019. It compares 11 different active learning for regression approaches:
 1. BL
 2. EMCM
 3. QBC
@@ -16,4 +14,13 @@ It compares 11 different active learning for regression approaches:
 10. GALR
 11. FW-GALR
 
-For details of the 11 algorithms, please refer to the paper at https://arxiv.org/abs/2604.02019.
+main_multiTask_github.m produces main multi-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019. It compares 7 different active learning for regression approaches:
+1. BL
+2. GSx
+3. FW-GSx
+4. MT-iGS
+5. FW-MT-iGS
+6. GALR
+7. FW-GALR
+   
+For details of these algorithms, please refer to the paper at https://arxiv.org/abs/2604.02019.
