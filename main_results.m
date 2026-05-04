@@ -1,6 +1,6 @@
 %% ALR on 11 datasets; 80% training pool, 20% test
 %% Use ridge regression to estimate the feature weights, and ridge regression for linear regression
-%% This program produces main results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019.
+%% This program produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019.
 %%
 %% Compare 11 approaches:
 %% 1. BL
