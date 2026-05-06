@@ -22,5 +22,3 @@ main_multiTask_github.m produces main multi-task results of the paper "Feature W
 5. FW-MT-iGS
 6. GALR
 7. FW-GALR
-   
-For details of these algorithms, please refer to the paper at https://arxiv.org/abs/2604.02019.
