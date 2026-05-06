@@ -1,5 +1,4 @@
-%% This program produces main multi-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," 
-%% available at https://arxiv.org/abs/2604.02019.
+%% This program produces main multi-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression" 
 %%
 %% AL for offline regression on EnergyEfficiency http://archive.ics.uci.edu/ml/datasets/energy+efficiency
 %%
@@ -11,8 +10,6 @@
 %% 5. FW-MT-iGS
 %% 6. MT-GALR
 %% 7. FW-MT-GALR
-
-%% Dongrui WU, drwu@hust.edu.cn
 
 clc; clearvars; close all;
 warning off all; rng('default');
