@@ -1,5 +1,4 @@
-%% This program produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression,"
-%% available at https://arxiv.org/abs/2604.02019.
+%% This program produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression"
 %%
 %% ALR on 11 datasets; 80% training pool, 20% test
 %%
@@ -17,8 +16,6 @@
 %% 9. FW-iGS
 %% 10. GALR
 %% 11. FW-GALR
-
-%% Dongrui WU, drwu@hust.edu.cn
 
 clc; clearvars; close all; rng(0);
 
