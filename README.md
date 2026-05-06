@@ -1,7 +1,7 @@
 # FWALR
 Feature weighted Pool-Based Sequential Active Learning for Regression algorithms
 
-main_singleTask_github.m produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019. It compares 11 different active learning for regression approaches:
+main_singleTask_github.m produces main single-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression.". It compares 11 different active learning for regression approaches:
 1. BL
 2. EMCM
 3. QBC
@@ -14,7 +14,7 @@ main_singleTask_github.m produces main single-task results of the paper "Feature
 10. GALR
 11. FW-GALR
 
-main_multiTask_github.m produces main multi-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression," available at https://arxiv.org/abs/2604.02019. It compares 7 different active learning for regression approaches:
+main_multiTask_github.m produces main multi-task results of the paper "Feature Weighting Improves Pool-Based Sequential Active Learning for Regression". It compares 7 different active learning for regression approaches:
 1. BL
 2. GSx
 3. FW-GSx
